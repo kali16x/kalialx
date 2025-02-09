@@ -8,15 +8,11 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['390371717717', 'nobody|'],
-  ['393518398856', 'nobody|'],
-  ['393755775755', 'nobody|'],
-  ['393755575577', 'nobody|'],
-  ['33760536110', 'nobody|'],
+  ['393492670189', 'nobody|']
 ]
-global.suittag = ['390371717717'] 
-global.prems = ['390371717717'] 
-global.reportes_solicitudes = ['390371717717']
+global.suittag = ['393492670189'] 
+global.prems = ['393492670189'] 
+global.reportes_solicitudes = ['393492670189']
 
 global.packname = '(☞ﾟ∀ﾟ)☞'
 global.author = '★ცơɬῳɧąıɬą★'
@@ -31,7 +27,7 @@ global.imagen3 = fs.readFileSync('./src/Pre Bot Publi.png')
 global.imagen4 = fs.readFileSync('./Menu.png')
 global.imagen5 = fs.readFileSync('./src/+18.jpg')
 
-global.mods = [] 
+global.mods = ['393492670189] 
 
 //* *******Tiempo***************
 global.d = new Date(new Date + 3600000)
